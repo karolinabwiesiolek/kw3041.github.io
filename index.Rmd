@@ -1,0 +1,28 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Karolina's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+You can do everything you might usually do.
+
+That means you can add test.
+
+
+This website is an example coming from [P8105](https://p8105.com/making_websites.html). We're making websites today! Learn more about this site [here](about.html).
+
+
+I also use [Google](https://www.google.com/webhp) for data science. 
+
+Here is a picture of me running a marathon in 2024:
+
+![](images/karolina.jpg)
+

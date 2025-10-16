@@ -1,0 +1,19 @@
+---
+title: "About this website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+This website was coded by Karolina. 
+
+
+Look at the plots [here](plots.html) here. 
+
+
+
+Go back to [homepage](index.htlm).
+
+
