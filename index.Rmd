@@ -22,7 +22,8 @@ This website is an example coming from [P8105](https://p8105.com/making_websites
 
 I also use [Google](https://www.google.com/webhp) for data science. 
 
-Here is a picture of me running a marathon in 2024:
+Here is a picture of me running a NYC Marathon in 2024:
 
-![](images/karolina.jpg)
+![](karolina.jpg)
+
 
